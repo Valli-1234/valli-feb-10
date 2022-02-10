@@ -1,0 +1,11 @@
+a = int(input ("enter number:"))
+if a>0:
+      Print ("given number is : Positive")
+else:
+      Print ("given number is :Negative")
+      
+enter number2
+given number is positive
+
+enrer number-5
+given number is negative
